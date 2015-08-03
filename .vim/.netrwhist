@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/local/home/smmadden/workspace/RainierWebsite/src/ProductAdsSCStaticContent'
+let g:netrw_dirhist_2='/local/home/smmadden/workspace/RainierWebsite/src/JavaScriptBuildToolsCampaignManager/build'
+let g:netrw_dirhist_3='/local/home/smmadden/workspace/RainierWebsite/src/ProductAdsMerchantUIStaticContent'
+let g:netrw_dirhist_4='/local/home/smmadden/.config'
