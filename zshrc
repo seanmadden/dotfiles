@@ -13,7 +13,6 @@ fi
 
 # Customize to your needs...
 
-bindkey '^R' history-incremental-search-backward
 alias bb=brazil-build
 
 alias bba='brazil-build apollo-pkg'
